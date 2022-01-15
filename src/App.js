@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          You have arrived at <code>GoG519's</code> EBS Deployment.
+          You have arrived at <code>GoG519's</code> updated EBS Deployment.
         </p>
         <a
           className="App-link"
