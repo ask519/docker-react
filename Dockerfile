@@ -7,4 +7,5 @@ COPY public ./public
 RUN npm run build
 
 FROM nginx:1.21.5 as final
+EXPOSE 80
 COPY --from=builder /app/build /usr/share/nginx/html

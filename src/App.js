@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          You have arrived at <code>GoG519's</code> EBS Deployment.
         </p>
         <a
           className="App-link"
